@@ -1,5 +1,5 @@
-- building...
-- 📫 email me @ antqin27@gmail.com
+building...
+📫 @ antqin27@gmail.com
 
 <!---
 antqin/antqin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
